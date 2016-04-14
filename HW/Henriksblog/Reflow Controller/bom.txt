@@ -1,0 +1,21 @@
+Partlist exported from D:/Krivic/Documents/eagle/Reflow Controller/uuni.sch at 5/6/2015 5:13:18 PM
+
+Qty Value                      Device                     Package             Parts      Description                                                                         MF MPN OC_FARNELL OC_NEWARK
+1                              M025MM                     SCREWTERMINAL-5MM-2 JP1        Header 2                                                                                                       
+1                              M02LOCK                    1X02_LOCK           JP2        Header 2                                                                                                       
+1                              MA03-2                     MA03-2              SV2        PIN HEADER                                                                                 unknown    unknown  
+1                              MA04-1                     MA04-1              SV1        PIN HEADER                                                                                 unknown    unknown  
+3   100n                       C-EUC0402                  C0402               C2, C4, C8 CAPACITOR, European symbol                                                                                     
+2   10k                        R-EU_R0603                 R0603               R3, R4     RESISTOR, European symbol                                                                                      
+1   10n                        C-EUC0603                  C0603               C9         CAPACITOR, European symbol                                                                                     
+1   1k                         R-EU_R0603                 R0603               R5         RESISTOR, European symbol                                                                                      
+3   1u                         C-EUC0603                  C0603               C1, C3, C7 CAPACITOR, European symbol                                                                                     
+2   20p                        C-EUC0603                  C0603               C5, C6     CAPACITOR, European symbol                                                                                     
+2   22                         R-EU_R0603                 R0603               R1, R2     RESISTOR, European symbol                                                                                      
+1   8Mhz                       CRYSTALSMD                 HC49UP              Y1         Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534                            
+1   ATMEGA8U2                  ATMEGA8U2                  TQFP32-08           IC3        Atmel ATMEGA8U2 microprocessor in TQFP32 package                                                               
+1   BC817                      BC817-40-NPN-SOT23-BEC     SOT23-BEC           T1         NPN Transistror                                                                                                
+1   MAX31855                   MAX31855                   SO8                 IC2                                                                                                                       
+1   MIC5205-3V3                FT531JA                    SC-74               IC1                                                                                                                       
+1   MINI-USB-SCHIELD-32005-201 MINI-USB-SCHIELD-32005-201 32005-201           X1         MINI USB-B Conector                                                                        unknown    unknown  
+1   PTC-FUSE-0805              PTC-FUSE-0805              R0805               RX1        PTC Dummy                                                                                                      

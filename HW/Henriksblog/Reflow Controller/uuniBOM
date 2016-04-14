@@ -1,0 +1,28 @@
+Stückliste exportiert aus D:/Krivic/Documents/eagle/Reflow Controller/uuni.sch am 15.04.2015 11:32:12
+
+Part Value                      Device                     Package             Description                                                                         MF MPN OC_FARNELL OC_NEWARK
+C1   1u                         C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+C2   100n                       C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+C3   1u                         C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+C4   100n                       C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+C5   20p                        C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+C6   20p                        C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+C7   1u                         C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+C8   100n                       C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+C9   10n                        C-EUC0603                  C0603               CAPACITOR, European symbol                                                                                     
+IC1  FT531JA                    FT531JA                    SC-74                                                                                                                              
+IC2  MAX31855                   MAX31855                   SO8                                                                                                                                
+IC3  ATMEGA8U2                  ATMEGA8U2                  TQFP32-08           Atmel ATMEGA8U2 microprocessor in TQFP32 package                                                               
+JP1                             M025MM                     SCREWTERMINAL-5MM-2 Header 2                                                                                                       
+JP2                             M02LOCK                    1X02_LOCK           Header 2                                                                                                       
+R1   22                         R-EU_R0603                 R0603               RESISTOR, European symbol                                                                                      
+R2   22                         R-EU_R0603                 R0603               RESISTOR, European symbol                                                                                      
+R3   10k                        R-EU_R0603                 R0603               RESISTOR, European symbol                                                                                      
+R4   10k                        R-EU_R0603                 R0603               RESISTOR, European symbol                                                                                      
+R5   1k                         R-EU_R0603                 R0603               RESISTOR, European symbol                                                                                      
+RX1  PTC-FUSE-0805              PTC-FUSE-0805              R0805               PTC Dummy                                                                                                      
+SV1                             MA04-1                     MA04-1              PIN HEADER                                                                                 unknown    unknown  
+SV2                             MA03-2                     MA03-2              PIN HEADER                                                                                 unknown    unknown  
+T1   BC817                      BC817-40-NPN-SOT23-BEC     SOT23-BEC           NPN Transistror                                                                                                
+X1   MINI-USB-SCHIELD-32005-201 MINI-USB-SCHIELD-32005-201 32005-201           MINI USB-B Conector                                                                        unknown    unknown  
+Y1   8Mhz                       CRYSTALSMD                 HC49UP              Various standard crystals. Proven footprints. Spark Fun Electronics SKU : COM-00534                            
